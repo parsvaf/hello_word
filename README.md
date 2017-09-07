@@ -1,2 +1,3 @@
 # hello_word
 my first repository
+this is the first time that I am usinng github...
